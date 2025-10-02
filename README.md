@@ -1,4 +1,11 @@
-## Hi there 👋
+### ¡Hola! 👋
+#### Me llamo María Gracia Abbott y estoy aprendiendo a utilizar GitHub 💻 
+##### • 🌍 Soy estudiante de Magister en Ciencias Políticas UC, mención Relaciones Internacionales  
+##### • 🎓 Reciente licenciada de College en Ciencias Sociales UC
+##### • 📚 Hice mi major en Relaciones Internacionales y doble minor en políticas públicas y educación
+##### • 🌐 Actualmente soy pasante en la División de Desarrollo Social de la CEPAL
+##### • ☀️ Me gusta aprender | 🎲 Amo los juegos de mesa
+##### • 🌸Pronombres: Ella/la 
 
 <!--
 **mariagracia-abbottcontreras/mariagracia-abbottcontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
